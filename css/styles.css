@@ -1,5 +1,6 @@
   #background {
     background-color: rgb(132, 132, 196);
+    margin: 0px;
   }
   .navbar {
     background-color: rgb(30, 22, 139);
@@ -9,3 +10,12 @@
     padding: 25px;
     background-image: linear-gradient(to top, blue, rgb(132, 132, 196));
   }
+
+  footer {
+    background-color: rgb(30, 22, 139);
+  }
+
+  .container-fluid {
+    padding: 0px;
+    margin: 0px;
+}
